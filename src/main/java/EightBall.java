@@ -12,4 +12,4 @@ public class EightBall {
 		System.out.println(buffer);   
 	} 
   
-}
+} 
