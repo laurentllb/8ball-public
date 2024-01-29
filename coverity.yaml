@@ -3,7 +3,7 @@ analyze:
   location: local
   checkers:
     all: true
-    webapp-security:
+    webapp-security: 
       enabled: true
   trust:
     all: false
