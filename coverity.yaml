@@ -5,7 +5,7 @@ analyze:
     all: true 
     webapp-security: 
       enabled: true
-  trust:
+  trust: 
     all: false
 capture: 
   build: 
