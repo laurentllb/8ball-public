@@ -1,0 +1,13 @@
+analyze:
+  aggressiveness-level: medium
+  location: local
+  checkers:
+    all: true
+    webapp-security:
+      enabled: true
+  trust:
+    all: false
+capture:
+  build:
+    clean-command: mvn -B clean
+    build-command: mvn -B -DskipTests package
