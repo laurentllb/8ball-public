@@ -2,7 +2,7 @@ analyze:
   aggressiveness-level: medium
   location: local
   checkers:
-    all: true
+    all: true 
     webapp-security: 
       enabled: true
   trust:
