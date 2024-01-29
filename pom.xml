@@ -7,7 +7,7 @@
     <artifactId>8ball</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
-
+ 
     <name>8ball test by Laurent</name>
 
     <properties>
